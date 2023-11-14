@@ -1,0 +1,8 @@
+name: mojo_dev
+channels:
+  - defaults
+dependencies:
+  - pytorch
+  - python=3.11
+  - matplotlib
+prefix: /Users/eduardotorres/miniconda3/envs/mojo_dev
